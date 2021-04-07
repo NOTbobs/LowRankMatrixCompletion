@@ -1,4 +1,4 @@
-# LowRankMatrixCompletion
+# Low Rank Matrix Completion - (?)
 Attempt at implementing Low Rank Matrix Completion using NN?
 
 ### To use:
